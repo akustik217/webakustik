@@ -1,0 +1,51 @@
+html {
+padding-top:25px;
+background-image:url(2/strit.jpg);
+}
+body {
+    width:80%;
+    padding:20px;
+    margin:0 auto;
+    border-radius:10px;
+    box-shadow:10px 10px 10px rgba(0.0.0. .5);
+    background-color:#E1EDEB;
+}
+h1{
+    
+    color:#6A94CC;
+    font-size:3em;
+    margin:0;
+}
+.cont2{ box-sizing: border-box;
+    width :30em;
+
+    margin: 0;
+   padding: 0;
+    background-color:#f3f7f6;
+
+    float:right;
+}
+.cont1{box-sizing: border-box;
+    width:100%;
+    min-height: 6em;
+    background-color:#50629c;
+}
+.link1{ 
+    box-sizing: border-box;
+    margin:0;
+    padding:1em;
+    width: 14.5em;em;
+   float:left;
+    background-color:#8ae787;
+}
+.link2{ 
+    box-sizing: border-box;
+     margin:0;
+    padding: 1em;
+    float:right;
+   width: 14.5em;em;
+    background-color:#cde671;
+}
+*{
+    text-align: center;
+}
